@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>cars2.png</filename>
+	<path>/Users/clementnicolas--graffard/Desktop/test/cars2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cars</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>677</ymin>
+			<xmax>788</xmax>
+			<ymax>1084</ymax>
+		</bndbox>
+	</object>
+</annotation>
